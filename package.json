@@ -12,7 +12,7 @@
     "debug": "DEBUG=* npx @11ty/eleventy"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   }
